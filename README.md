@@ -6,7 +6,7 @@ First, we used our code to help Steve, a new Finance gradate, to perform analysi
 
 # Analysis on Multiple Stocks (Challenge)
 
-We provided an VBA Macro that can analyze all stocks in the markets. 
+We provided an VBA Macro that can analyze all stocks in the market. 
 
 We applied this code to the short list of green energy stocks from Steve's list and found ENPH might be a good choice for his parents. 
 
