@@ -8,4 +8,6 @@ First, we used our code to help Steve, a new Finance gradate, to perform analysi
 
 We provided an VBA Macro that can analyze all stocks in the markets. 
 
-We applied this code to the short list of green energy stocks from Steve's list and found ENPH might be a good choice for his parents. ENPH's 2017 return was 129.52% and 2018 returns was 81.92%. The slowing down of returns comes from the market or industry. In 2017, 11 out of 12 stocks' returns were positive. ENPH's return ranked #3. In 2018, only 2 out of 12 stocks got positive returns. ENPH ranked #2.
+We applied this code to the short list of green energy stocks from Steve's list and found ENPH might be a good choice for his parents. 
+
+ENPH's 2017 return was 129.52% and 2018 returns was 81.92%. The slowing down of returns comes from the market or industry. In 2017, 11 out of 12 stocks' returns were positive. ENPH's return ranked #3. In 2018, only 2 out of 12 stocks got positive returns. ENPH ranked #2.
